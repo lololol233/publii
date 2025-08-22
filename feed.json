@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "測試",
+    "description": "",
+    "home_page_url": "https://lololol233.github.io/publii",
+    "feed_url": "https://lololol233.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "測試員"
+    },
+    "items": [
+    ]
+}
