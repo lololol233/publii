@@ -3,29 +3,44 @@
     <title>測試</title>
     <link href="https://lololol233.github.io/publii/feed.xml" rel="self" />
     <link href="https://lololol233.github.io/publii" />
-    <updated>2025-08-22T16:57:42+08:00</updated>
+    <updated>2025-08-25T14:53:57+08:00</updated>
     <author>
         <name>測試員</name>
     </author>
     <id>https://lololol233.github.io/publii</id>
 
     <entry>
-        <title>測試文章</title>
+        <title>二十首情詩和一首絕望的歌</title>
         <author>
             <name>測試員</name>
         </author>
         <link href="https://lololol233.github.io/publii/ce-shi-wen-zhang.html"/>
         <id>https://lololol233.github.io/publii/ce-shi-wen-zhang.html</id>
 
-        <updated>2025-08-22T16:57:42+08:00</updated>
+        <updated>2025-08-04T16:57:00+08:00</updated>
             <summary>
                 <![CDATA[
-                    測試測試
+                    測試測試 測試測試 測試測試 測試測試 測試測試
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>測試測試</p>
+                <figure class="post__image"><img loading="lazy"  src="https://lololol233.github.io/publii/media/posts/1/Neruda_21.jpg" alt="" width="222" height="316" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-xs.jpg 640w ,https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-sm.jpg 768w ,https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-md.jpg 1024w ,https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-lg.jpg 1366w ,https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-xl.jpg 1600w ,https://lololol233.github.io/publii/media/posts/1/responsive/Neruda_21-2xl.jpg 1920w"></figure>
+<p>測試測試</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">女人的身體，白色的山丘，白色的大腿，<span lang="EN-US"><br></span>你委身於我的姿態就像這世界。<br>我粗獷的農人的身體挖掘著你，<span lang="EN-US"><br></span>並且讓兒子自大地深處躍出。</td>
+<td style="width: 49.9288%;">Cuerpo de mujer; blancas colinas, muslos blancos,<br>te pareces al mundo en tu actitud de entrega.<br>Mi cuerpo de labriego salvaje te socava</td>
+</tr>
+</tbody>
+</table>
+<p>測試測試</p>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="添加圖片"> </div></div>
+<p>測試測試</p>
+<p>測試測試</p>
+<p>測試測試</p>
             ]]>
         </content>
     </entry>
